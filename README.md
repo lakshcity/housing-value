@@ -1,1 +1,1 @@
-This project contains a housing dataset which helps us in building a house value prediction model which lays its importance on feature engineering that is which all features are taken into consideration more than the other features which buying houeses.
+This project contains a housing dataset which helps us in building a house value prediction model which lays its importance on feature engineering that is which all features are taken into consideration more than the other features which buying houses.
